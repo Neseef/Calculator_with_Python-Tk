@@ -1,6 +1,6 @@
 from tkinter import *
-from Nesi_Modules import fn_calculate as get_total
-from Nesi_Modules import update_list
+from PyCalculator_Modules import fn_calculate as get_total
+from PyCalculator_Modules import update_list
 
 root=Tk()
 root.title("Nesi's PyCalculator")
